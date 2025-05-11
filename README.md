@@ -37,7 +37,7 @@ I'm a passionate **Full Stack Developer** who loves building web applications an
 ### 🔗 Connect with Me
 
 - LinkedIn: [www.linkedin.com/in/Shivani-Gupta30]  
-- Portfolio: [Your Portfolio URL if any]  
+- Portfolio: [Your Portfolio URL if any]
+- Gmail:[shivanigupta30050@gmail.com]
 
 
-Let me know if you'd like me to fill this in with your actual details or help update your GitHub directly.
